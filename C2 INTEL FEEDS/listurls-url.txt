@@ -1,0 +1,28 @@
+#############################################################################
+# The list contains URLs collected over                                     #
+# the last 30 days by the web application                                   #
+# From any of these urls has been downloaded anda nalyzed                   #
+# a suspicious binary file.                                                 #
+# This list has been automatically generated at 2022-07-01 15:44:01.        #
+# The list is released without any warranty to the end users.               #
+# CERT-PA: cert-pa@cert-pa.it                                               #
+#############################################################################
+http://herchinfitout.com.sg/backup/sites/TsN0W4LrUYE7p/
+http://caipa.net.cn/docs/
+http://caipa.net.cn/TN/sites/1dvfcd42/dxkp91i027qbecny5eizt0jxz2ucoi/
+http://www.weblabor.com.br/avisos/lm/qjQdnNiipH2ePqaY8c/
+http://maksi.feb.unib.ac.id/wp-admin/mTWAIv/
+http://sexyhadry.cz/zqbpmfcy.rar
+http://43.241.106.183:3659/Mozi.m
+http://45.153.203.146/armv6l
+http://45.153.203.146/mips
+http://45.153.203.146/i686
+http://45.153.203.146/sparc
+http://45.153.203.146/powerpc
+http://45.153.203.146/armv5l
+http://45.153.203.146/mipsel
+http://45.153.203.146/armv4l
+http://45.153.203.146/x86
+http://45.153.203.146/i586
+http://45.153.203.146/sh4
+http://45.153.203.146/m68k
